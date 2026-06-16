@@ -1,0 +1,5 @@
+# Enlaces a los repositorios del proyecto InnovaTech
+
+1. Repositorio Principal (Documentación): https://github.com/johnBeiza/innovatech-documentacion-Beiza-Torres
+2. Repositorio Frontend: https://github.com/sevicia/innovatech-frontend-beiza-torres
+3. Repositorio Backend (Microservicios y API REST): https://github.com/sevicia/innovatech-backend-beiza-torres
